@@ -1,3 +1,6 @@
+
+need help? or just wanna ask a question? [open an issue](https://github.com/madrashackerspace/angular/issues) on this repo!
+
 # Angular learning journey
 
 Find the list of learning resources for Angular, from complete beginner to advanced level.
