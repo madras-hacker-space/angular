@@ -7,6 +7,7 @@ Everything you need to learn in order to become a professional Angular developer
 
 ### Javascript:
 
+- [Learn JavaScript by adventuring around in the terminal](https://github.com/workshopper/javascripting)
 - [JavaScript ES6](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
     - [Tutorial](https://www.tutorialspoint.com/es6)
 - [Principles of functional programming in JavaScript](https://flaviocopes.com/javascript-functional-programming/)
