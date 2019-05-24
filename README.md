@@ -1,5 +1,6 @@
 
 need help? or just wanna ask a question? [open an issue](https://github.com/madrashackerspace/angular/issues) on this repo!
+
 submit your partial/completed assignment work [assignment submission](https://github.com/madrashackerspace/angular-submission) on this repo!
 
 # Angular learning journey
